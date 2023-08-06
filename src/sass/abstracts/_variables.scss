@@ -9,7 +9,6 @@
   --color-content: hsl(var(--color-neutral-400));
   --color-headings: hsl(var(--color-neutral-800));
   --color-body-bg: hsl(var(--color-neutral-300));
-  --color-card-bg: hsl(var(--color-neutral-100));
 
   // Fonts
   --fw-regular: 400;
@@ -19,6 +18,7 @@
   --ff-primary: 'Outfit', sans-serif;
 
   // Card
+  --card-bg: hsl(var(--color-neutral-100));
   --card-shadow: 0 25px 25px hsla(var(--color-neutral-900), 0.5);
   --card-radius: 20px;
   --card-padding: 1rem 1rem 2.5rem;
