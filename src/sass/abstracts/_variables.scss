@@ -17,6 +17,9 @@
   --ff-primary: 'Outfit', sans-serif;
 
   // Card
+  --card-heading-color: hsl(var(--color-neutral-800));
+  --card-content-color: hsl(var(--color-neutral-400));
+  --card-shadow: 0 25px 25px hsla(var(--color-neutral-900), 0.5);
   --card-radius: 20px;
   --card-padding: 1rem 1rem 2.5rem;
   --card-max-width: 20rem;
