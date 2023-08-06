@@ -34,11 +34,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 
-Probably using Sass for this project was a bit overkill, but I have been using it for many years and I just can't stop using it. I like that you can break your styles up into partials so your code looks a lot neater.
-
 ### What I learned
 
-This was a very straightforward project. It was a good introduction to get the motivation moving. I’m happy with the look of it and I think it will be very close to the original design. I am fall short of the leading of the heading and content.
+This was a very straightforward project. It was a good introduction to get the motivation flowing. I’m happy with the look of it and I think it will be very close to the original design. I may fall short with the leading of the heading and content. Probably using Sass for this project was a bit overkill, but I have been using it for many years and I just can't stop using it. I like that you can break your styles up into partials so your code looks a lot neater.
 
 ## Author
 
