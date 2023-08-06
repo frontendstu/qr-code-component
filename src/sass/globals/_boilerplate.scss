@@ -2,6 +2,8 @@ body {
   font-weight: var(--fw-regular);
   font-size: var(--fs-body);
   font-family: var(--ff-primary);
+  line-height: 1.5;
+  color: var(--color-content);
   background-color: var(--color-body-bg);
   display: grid;
   place-content: center;
