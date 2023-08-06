@@ -13,3 +13,13 @@ body {
   color: var(--color-headings);
   font-weight: var(--fw-bold);
 }
+
+.attribution {
+  font-size: 0.875rem;
+  margin-top: var(--attribution-margin-top);
+
+  a {
+    color: var(--attribution-link-color);
+    text-decoration: none;
+  }
+}
