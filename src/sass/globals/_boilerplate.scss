@@ -8,3 +8,8 @@ body {
   display: grid;
   place-content: center;
 }
+
+.heading {
+  color: var(--color-headings);
+  font-weight: var(--fw-bold);
+}
