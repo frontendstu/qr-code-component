@@ -10,6 +10,12 @@
     font-size: var(--fs-heading);
   }
 
+  &__img {
+    img {
+      border-radius: var(--card-img-radius);
+    }
+  }
+
   &__content {
     text-align: center;
     margin-top: var(--card-content-margin-top);
