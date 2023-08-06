@@ -6,6 +6,8 @@
   --color-neutral-800: 217, 44%, 22%;
   --color-neutral-900: 100, 100%, 0%;
 
+  --color-content: hsl(var(--color-neutral-400));
+  --color-headings: hsl(var(--color-neutral-800));
   --color-body-bg: hsl(var(--color-neutral-300));
   --color-card-bg: hsl(var(--color-neutral-100));
 
