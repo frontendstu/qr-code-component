@@ -15,8 +15,11 @@ body {
 }
 
 .attribution {
-  font-size: 0.875rem;
+  text-align: center;
+  font-size: var(--attribution-fs);
   margin-top: var(--attribution-margin-top);
+  margin-inline: auto;
+  max-width: var(--attribution-max-width);
 
   a {
     color: var(--attribution-link-color);
