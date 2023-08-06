@@ -6,6 +6,9 @@
   --color-neutral-800: 217, 44, 22%;
   --color-neutral-900: 100, 100%, 0%;
 
+  --color-body-bg: hsl(var(--color-neutral-300));
+  --color-card-bg: hsl(var(--color-neutral-100));
+
   // Fonts
   --fw-regular: 400;
   --fw-bold: 700;
