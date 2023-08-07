@@ -19,6 +19,7 @@
   &__content {
     text-align: center;
     margin-top: var(--card-content-margin-top);
+    padding-inline: var(--card-content-padding-inline);
     display: flex;
     flex-direction: column;
     gap: 1rem;

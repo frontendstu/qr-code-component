@@ -19,6 +19,7 @@
   --card-max-width: 20rem;
   --card-img-radius: 10px;
   --card-content-margin-top: 1.5rem;
+  --card-content-padding-inline: 1rem;
   --card-content-gap: 1rem;
   --attribution-fs: 0.875rem;
   --attribution-margin-top: 2rem;
@@ -122,6 +123,7 @@ body {
 .card__content {
   text-align: center;
   margin-top: var(--card-content-margin-top);
+  padding-inline: var(--card-content-padding-inline);
   display: flex;
   flex-direction: column;
   gap: 1rem;
